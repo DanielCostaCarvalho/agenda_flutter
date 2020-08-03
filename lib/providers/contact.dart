@@ -1,3 +1,9 @@
+final String contactTable = 'contactTable';
+final String idColumn = 'idColumn';
+final String nameColumn = 'nameColumn';
+final String phoneColumn = 'phoneColumn';
+final String emailColumn = 'emailColumn';
+
 class Contact {
   int id;
   String name, email, phone;
